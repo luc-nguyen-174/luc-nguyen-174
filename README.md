@@ -1,8 +1,9 @@
-### Hi there 👋
+### こんにちは、 👋
 
 
-
-Đây là repository giới thiệu về tôi.
+初めまして、私はＮＧＵＹＥＮ　ＴＩＥＮ　ＬＵＣと申します、<br>
+日本に居た時にルックと言うです。<br>
+よろしくお願い致します。<br>
 
 Tôi là Nguyễn Tiến Lực, học viên CodeGym lớp C1122H1,<br>
 nhập học vào ngày 30/11/2022 và dự kiến tốt nghiệp vào ngày 31/05/2023
